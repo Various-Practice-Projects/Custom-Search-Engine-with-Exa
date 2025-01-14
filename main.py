@@ -1,5 +1,5 @@
 from exa_py import Exa
-exa = Exa(api_key='YOUR_EXA_API_KEY') 
+exa = Exa(api_key='YOUR_EXA_API_KEY') #don't forget to replace with YOUR API key from Exa
 
 # Take user's query input
 query = input('Search here: ')
